@@ -18,8 +18,8 @@ const portfolio = () => {
           </div>
           <h3>Portfolio Website</h3>
           <div className="portfolio__item-cta">
-          <a href="http://github.com" className='btn'>Github</a>
-          <a href="https://github.com/dragon6988/max.github.io" className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href="https://github.com/Rajesh3504" className='btn'>Github</a>
+          <a href="https://github.com/Rajesh3504" className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
 
@@ -30,7 +30,7 @@ const portfolio = () => {
           <h3>Chat app</h3>
           <div className="portfolio__item-cta">
           <a href="http://github.com" className='btn'>Github</a>
-          <a href="https://github.com/dragon6988/max.github.io" className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href="https://github.com/Rajesh3504" className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
 
@@ -41,7 +41,7 @@ const portfolio = () => {
           <h3>Food app</h3>
           <div className="portfolio__item-cta">
           <a href="http://github.com" className='btn'>Github</a>
-          <a href="https://github.com/dragon6988/max.github.io" className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href="https://github.com/Rajesh3504" className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
 
@@ -52,7 +52,7 @@ const portfolio = () => {
           <h3>Image Classification</h3>
           <div className="portfolio__item-cta">
           <a href="http://github.com" className='btn'>Github</a>
-          <a href="https://github.com/dragon6988/max.github.io" className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href="https://github.com/Rajesh3504" className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
 
@@ -63,7 +63,7 @@ const portfolio = () => {
           <h3>File Downloader</h3>
           <div className="portfolio__item-cta">
           <a href="http://github.com" className='btn'>Github</a>
-          <a href="https://github.com/dragon6988/max.github.io" className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href="https://github.com/Rajesh3504" className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
 
